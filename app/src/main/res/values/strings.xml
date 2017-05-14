@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Summer</string>
+    <string name="undo">undo</string>
+    <string name="undoLand">undo</string>
+</resources>
